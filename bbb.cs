@@ -31,3 +31,4 @@ public class bbb : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandl
         image.raycastTarget = true;
     }
 }
+
